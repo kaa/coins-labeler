@@ -2,6 +2,9 @@
 
 > An image labeler
 
+> [!NOTE]
+> This project is no longer maintained.
+
 #### Build Setup
 
 ``` bash
